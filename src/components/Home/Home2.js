@@ -18,7 +18,7 @@ function Home2() {
 						<p className="home-about-body">
 							I fell in love with{" "}
 							<b className="purple">Data Science </b> and ever since,
-							Ilive on the verge of developing things!
+							I live on the verge of developing things!
 							😁💻
 							<br />
 							<br />I have a fair knowledge in languages like
