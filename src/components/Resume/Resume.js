@@ -62,7 +62,7 @@ function Resume() {
 						<Resumecontent
 							title="Student coordinator[ TechnoVIT]"
 							content={[
-								"Workign as a student coordinator for TechnoVIT",
+								"Working as a student coordinator for TechnoVIT",
 							]}
 						/>
 					</Col>

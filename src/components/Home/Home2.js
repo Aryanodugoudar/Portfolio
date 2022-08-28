@@ -17,8 +17,8 @@ function Home2() {
 						</h1>
 						<p className="home-about-body">
 							I fell in love with{" "}
-							<b className="purple">Datascience </b> and ever since
-							i live on the verge of developing things!
+							<b className="purple">Data Science </b> and ever since,
+							Ilive on the verge of developing things!
 							😁💻
 							<br />
 							<br />I have a fair knowledge in languages like
@@ -33,7 +33,7 @@ function Home2() {
 							My field of Interest's are ;
 							<i>
 								<b className="purple">
-									Researching on new Deep Learnign models and building efficienct datascience models to solve the real world problems.{" "}
+									Researching on new Deep Learning models and building efficient Data Science models to solve the real world problems.{" "}
 								</b>{" "}
 							</i>
 							<br />
