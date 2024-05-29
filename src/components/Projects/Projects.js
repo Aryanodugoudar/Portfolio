@@ -7,7 +7,7 @@ import arrhythmia from "../../Assets/Projects/arrhythmia.png";
 import face from "../../Assets/Projects/face.png";
 import underwater from "../../Assets/Projects/underwater.jpeg";
 import student from "../../Assets/Projects/student.jpeg";
-import llm from "../../Assets/Projects/llm.png";
+import llm from "../../Assets/Projects/llm.jpeg";
 
 function Projects() {
 	return (
