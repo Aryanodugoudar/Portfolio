@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Aryan Odugoudar </span>
             from <span className="purple">India.</span>
-            <br /> I am a Computer Science Undergrad in Australian National University, Australia.
+            <br /> I am a Computer Science Undergrad at <span className="purple">The Australian National University, Canberra.</span>
             <br />
 
             <br />
