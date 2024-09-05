@@ -1,5 +1,5 @@
 html {
-  --section-background-color: black
+  --section-background-color: black;
 
   --image-gradient: linear-gradient(
     to bottom left,
